@@ -1,1 +1,0 @@
-# kube-proxy-amd64
